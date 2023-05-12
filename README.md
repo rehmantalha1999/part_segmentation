@@ -52,7 +52,7 @@ To use the implementation, follow these steps:
 
 1. Clone this repository:
 
-git clone https://github.com/rehmantalha1999/point-cloud-segmentation.git
+git clone https://github.com/rehmantalha1999/part-segmentation.git
 cd point-cloud-segmentation
 
 2. Modify the `main.py` script to process your point cloud data, adjusting parameters as needed.
