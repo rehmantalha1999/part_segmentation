@@ -1,5 +1,8 @@
 # Point Cloud Segmentation and Visualization
 
+![results 1]([https://raw.githubusercontent.com/username/repository_name/main/images/example_image.png](https://github.com/rehmantalha1999/part_segmentation/blob/main/results%201.png))
+
+
 This repository contains a Python implementation for segmenting and visualizing point clouds using RANSAC, curvature-based filtering, and outlier removal techniques. The implementation is tested with the following library versions:
 
 - Open3D 0.12.0
