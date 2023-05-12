@@ -55,8 +55,8 @@ To use the implementation, follow these steps:
 git clone https://github.com/rehmantalha1999/part_segmentation.git
 cd point-cloud-segmentation
 
-2. Modify the `main.py` script to process your point cloud data, adjusting parameters as needed.
-3. Run the `main.py` script:
+2. Modify the `part segmentation.py` script to process your point cloud data, adjusting parameters as needed.
+3. Run the `part segmentation.py` script:
 
 4. Visualize the results using the provided visualization functions.
 
